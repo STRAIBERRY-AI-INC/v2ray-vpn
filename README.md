@@ -82,7 +82,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 * Install V2rayNG app on google play. [Click here](https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=en&gl=US).
 * Open the app and click on plus sign at the top corner
 * Select one off options `Import config from QR code` or `Impport config from clipboard` and import the credentials
-* When credentials added click on floating button at the bottom , when button turns to green the click on rectangle under the button:
+* When credentials added click on floating button at the bottom , when button turns to green then click on rectangle under the button:
   <div>
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="Screenshot_20221020_151815.jpg" alt="Straiberry" width="200">
