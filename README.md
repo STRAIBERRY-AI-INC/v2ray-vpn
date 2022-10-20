@@ -1,11 +1,16 @@
-  <div align="center">
+
+ <div align="center">
   <a href="">
-    <img src="download.png" alt="Straiberry">
+    <img src="FI_RGB_Secondary_Logo_black_gradient.png" alt="Straiberry">
   </a>
 </div>
+<br/>
 
 # v2ray-vpn
-Instruction on how install and run v2ray protocol
+
+<div align="center">
+Instruction on how install and run v2ray protocol on both server and Client
+</div>
 
 ## Server side
 1. Login to your server using ssh:
