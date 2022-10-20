@@ -23,7 +23,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
  * (2) A password for your panel
  * (3) A port to access your panel
   
-  <div align="center">
+  <div >
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="Screenshot%202022-10-20%20142010.png" alt="Straiberry">
   </a>
@@ -42,9 +42,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
   
   <br />
   
-  <div align="center">
+  <div >
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Screenshot%202022-10-20%20143540.png" alt="Straiberry">
+    <img src="Screenshot%202022-10-20%20143540.png" alt="Straiberry" width="600">
   </a>
 </div>
 
@@ -54,9 +54,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
 <br />
 
-  <div align="center">
+  <div >
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Screenshot%202022-10-20%20143724.png" alt="Straiberry">
+    <img src="Screenshot%202022-10-20%20143724.png" alt="Straiberry" width="400">
   </a>
 </div>
 
@@ -65,7 +65,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 7. click on option minue for each user and select qr code to copy or scan the credentials:
 
 <br/>
-  <div align="center">
+  <div >
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="Screenshot%202022-10-20%20143833.png" alt="Straiberry" width="600">
   </a>
